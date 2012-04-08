@@ -1,3 +1,7 @@
+**NOTE**: This repository is old, please use the new one: https://github.com/json-ld/json-ld.org
+
+----
+
 Introduction
 ------------
 
